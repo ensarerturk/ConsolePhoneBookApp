@@ -1,0 +1,14 @@
+C:\Users\ensar\OneDrive\Masaüstü\fimpleDotNetHomework\ConsolePhoneBookApp\bin\Debug\net7.0\ConsolePhoneBookApp.exe
+C:\Users\ensar\OneDrive\Masaüstü\fimpleDotNetHomework\ConsolePhoneBookApp\bin\Debug\net7.0\ConsolePhoneBookApp.deps.json
+C:\Users\ensar\OneDrive\Masaüstü\fimpleDotNetHomework\ConsolePhoneBookApp\bin\Debug\net7.0\ConsolePhoneBookApp.runtimeconfig.json
+C:\Users\ensar\OneDrive\Masaüstü\fimpleDotNetHomework\ConsolePhoneBookApp\bin\Debug\net7.0\ConsolePhoneBookApp.dll
+C:\Users\ensar\OneDrive\Masaüstü\fimpleDotNetHomework\ConsolePhoneBookApp\bin\Debug\net7.0\ConsolePhoneBookApp.pdb
+C:\Users\ensar\OneDrive\Masaüstü\fimpleDotNetHomework\ConsolePhoneBookApp\obj\Debug\net7.0\ConsolePhoneBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar\OneDrive\Masaüstü\fimpleDotNetHomework\ConsolePhoneBookApp\obj\Debug\net7.0\ConsolePhoneBookApp.AssemblyInfoInputs.cache
+C:\Users\ensar\OneDrive\Masaüstü\fimpleDotNetHomework\ConsolePhoneBookApp\obj\Debug\net7.0\ConsolePhoneBookApp.AssemblyInfo.cs
+C:\Users\ensar\OneDrive\Masaüstü\fimpleDotNetHomework\ConsolePhoneBookApp\obj\Debug\net7.0\ConsolePhoneBookApp.csproj.CoreCompileInputs.cache
+C:\Users\ensar\OneDrive\Masaüstü\fimpleDotNetHomework\ConsolePhoneBookApp\obj\Debug\net7.0\ConsolePhoneBookApp.dll
+C:\Users\ensar\OneDrive\Masaüstü\fimpleDotNetHomework\ConsolePhoneBookApp\obj\Debug\net7.0\refint\ConsolePhoneBookApp.dll
+C:\Users\ensar\OneDrive\Masaüstü\fimpleDotNetHomework\ConsolePhoneBookApp\obj\Debug\net7.0\ConsolePhoneBookApp.pdb
+C:\Users\ensar\OneDrive\Masaüstü\fimpleDotNetHomework\ConsolePhoneBookApp\obj\Debug\net7.0\ConsolePhoneBookApp.genruntimeconfig.cache
+C:\Users\ensar\OneDrive\Masaüstü\fimpleDotNetHomework\ConsolePhoneBookApp\obj\Debug\net7.0\ref\ConsolePhoneBookApp.dll
